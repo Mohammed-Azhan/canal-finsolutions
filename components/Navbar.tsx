@@ -62,7 +62,7 @@ export default function Navbar() {
             href="/contact"
             className="px-5 py-2.5 rounded-xl bg-gradient-to-r from-brand-blue to-[#1a8fb5] text-white text-sm font-semibold shadow-md hover:shadow-lg hover:scale-105 btn-glow transition-all duration-300"
           >
-            Get Consulling
+            Get share
           </Link>
         </div>
 
